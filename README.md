@@ -27,7 +27,7 @@ root@theurijunior:~$ cat about.txt
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff41)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00ff41)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=00ff41)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00ff41)
+
 
 ## 🎯 Currently Working On
 

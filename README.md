@@ -53,7 +53,7 @@ status: "Building secure systems & breaking insecure ones."
 
 ### Contribution Activity Graph
 
-### Contribution Activity Graph
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theurijunior&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />

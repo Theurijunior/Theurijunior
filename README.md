@@ -24,7 +24,7 @@ training_grounds:
   - Hack The Box
   - TryHackMe
   - PortSwigger Web Security Academy
-flagship_project: "AXIS — Athlete eXposure & International Scouting"
+
 status: "Building secure systems & breaking insecure ones."
 </pre>
 

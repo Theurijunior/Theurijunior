@@ -36,27 +36,22 @@ status: "Building secure systems & breaking insecure ones."
   <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,php,mysql,js,html,css,tailwind,git,github,vscode&theme=dark" />
 </div>
 
----
+------
 
 ### Live Telemetry & GitHub Analytics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Theurijunior&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theurijunior&layout=compact&langs_count=8&theme=matrix&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theurijunior&theme=matrix&hide_border=true&background=0D1117" />
+  <img src="https://img.shields.io/badge/Profile_Status-Online-00FF41?style=for-the-badge&logo=kali-linux&logoColor=00FF41&color=0D1117" alt="Status" />
+  <img src="https://img.shields.io/badge/Security-Offensive-red?style=for-the-badge&logo=hackthebox&logoColor=white&color=0D1117" alt="Focus" />
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-blue?style=for-the-badge&logo=linux&logoColor=00FF41&color=0D1117" alt="OS" />
 </div>
 
 ---
 
 ### Contribution Activity Graph
 
-
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theurijunior&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theurijunior&theme=react-dark&hide_border=true&color=00FF41&line=00FF41&point=FFFFFF&area=true" width="100%" />
 </div>
 
 ---
@@ -66,7 +61,6 @@ status: "Building secure systems & breaking insecure ones."
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Theurijunior&label=TARGETS+LOGGED&color=00FF41&style=for-the-badge" alt="Profile Views" />
 </div>
-
 ---
 
 <!-- Animated Snake Eating Your Contributions -->

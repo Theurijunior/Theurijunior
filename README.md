@@ -1,6 +1,6 @@
 <!-- Typing Terminal Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=theuri%40kali%3A~%23+.%2Finit_profile.sh;Theuri+Joe+Kinyua+%7C+Offensive+Security+%26+Full-Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=theuri%40kali%3A~%23+.%2Finit_profile.sh;Theuri+Joe+%7C+Offensive+Security+%26+Full-Stack+Dev" alt="Typing SVG" />
 </div>
 
 <!-- Matrix / Cyber Banner -->
